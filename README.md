@@ -4,7 +4,7 @@ This View Cube helper provides an easy navigation tool to your three.js view:
 
 <img src="./screenshot.png"/>
 
-https://github.com/user-attachments/assets/e7819921-73ac-4e16-b105-b9f46a6d7c43
+https://github.com/user-attachments/assets/168f1589-ea7d-448f-9edf-c655c719e8ae
 
 ## Setup
 ```
