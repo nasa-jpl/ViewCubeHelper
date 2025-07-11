@@ -20,6 +20,7 @@ $ npm start
 Original design led by Christiahn Roman.
 Original implementation led by Benjamin Nuernberger.
 Made originally for ProtoSpace at JPL.
+M2020 Perseverance Rover model from https://science.nasa.gov/resource/mars-perseverance-rover-3d-model/.
 
 # License
 Copyright 2025, by the California Institute of Technology. ALL RIGHTS RESERVED. United States Government Sponsorship acknowledged.
