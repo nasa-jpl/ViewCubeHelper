@@ -1,9 +1,9 @@
 import * as THREE from 'three';
 import { FBXLoader } from 'three/addons/loaders/FBXLoader.js';
 
-import CubeModelUrl from './models/ViewCube_LowPoly_AdjustedUVmap.fbx';
-import WireCubeUrl from './models/ViewCubeWireframe.fbx';
-import HoverTextureUrl from './models/ViewCube_Textures_Hover_Grey70_2_2X-y-up.png';
+const CubeModelUrl = new URL( './models/ViewCube_LowPoly_AdjustedUVmap.fbx', import.meta.url ).toString();
+const WireCubeUrl = new URL( './models/ViewCubeWireframe.fbx', import.meta.url ).toString();
+const HoverTextureUrl = new URL( './models/ViewCube_Textures_Hover_Grey70_2_2X-y-up.png', import.meta.url ).toString();
 
 /* eslint-disable */
 const AXES_LENGTH = 215;
